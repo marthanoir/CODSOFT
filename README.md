@@ -11,3 +11,9 @@ This repository contains Level 1 task submissions for the CodSoft Web Developmen
 
 ### 3. Basic Calculator (HTML + CSS + JavaScript)
 - Fully functional interactive calculator
+
+📁 View Each Task
+
+- [Task 1 - Portfolio](./Task1_PersonalPortfolio/)
+- [Task 2 - Landing Page](./Task2_LandingPage/)
+- [Task 3 - Calculator](./Task3_Calculator/)
